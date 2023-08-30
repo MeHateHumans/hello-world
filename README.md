@@ -2,7 +2,7 @@
   This is my first edit and i dont know what it does but whatever
 # Personal Infos
 #### My Discord:
-  MeHateHumans#0555
+ mehatehumans (prev. MeHateHumans#0555)
 #### My Steam:
   MeHateHumans
 
