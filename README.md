@@ -1,5 +1,5 @@
 # hello-world
-  This is my first edit and i dont know what it does but whatever
+  Ya
   Welcome to this file..
 # Personal Infos
 #### My Discord:
